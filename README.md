@@ -13,7 +13,8 @@ To obtain this data, the first thing we had to do is create a diagram (ERD) that
 - Employees
 - Employees by department
 - Salaries
-- Titles
+- Titles.
+
 And we link between them the information contained in each of these structures as shown below:
 
 ![This is an image](https://i.pinimg.com/originals/79/9d/a9/799da9dbceb1b62bc2dfbe4c24c38b41.png)
