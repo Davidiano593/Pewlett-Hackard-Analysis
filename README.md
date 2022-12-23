@@ -23,15 +23,15 @@ And we link between them the information contained in each of these structures a
 
 ![This is an image](https://i.pinimg.com/originals/4e/88/3b/4e883bd8d8db1e755d5d5497196a2cc6.png)
 
-In the following bar graph we can see a big difference between the different titles of employees to retire:
+- In the following bar graph we can see a big difference between the different titles of employees to retire:
 
 ![This is an image](https://i.pinimg.com/originals/d8/c1/07/d8c107e40baa5b360db1dd618342e80a.png)
 
-The company wants to know which are the candidates of the next generation that can apply to be the next mentors, for which we have taken as a reference the seniority of the employees and exactly the people born in the year 1965 who are still part of the company.
+- The company wants to know which are the candidates of the next generation that can apply to be the next mentors, for which we have taken as a reference the seniority of the employees and exactly the people born in the year 1965 who are still part of the company.
 
 ![This is an image](https://i.pinimg.com/originals/30/47/98/3047987feb5aafbd8af696ffe7aec059.png)
 
-We can see that we have 1549 candidates born in 1965 who can aspire to be mentors.
+- We can see that we have 1549 candidates born in 1965 who can aspire to be mentors.
 
 ## Summary
 
